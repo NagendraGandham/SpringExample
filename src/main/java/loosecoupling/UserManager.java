@@ -1,6 +1,4 @@
-package com.loosecoupling;
-
-import com.tightcoupling.UserDatabase;
+package loosecoupling;
 
 public class UserManager {
     private UserDataProvider userDataProvider;
