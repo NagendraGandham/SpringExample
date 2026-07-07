@@ -1,0 +1,23 @@
+[33mcommit a1511c6794479794cf0163e36c03931cf2a97819[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Nagendra Gandham <nagendragandham770@gmail.com>
+Date:   Mon Jul 6 21:38:57 2026 +0530
+
+    Setter injection
+
+[33mcommit b873554ac3137520edac45d82bfdb5f84f2f1e98[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: Nagendra Gandham <nagendragandham770@gmail.com>
+Date:   Mon Jul 6 21:25:34 2026 +0530
+
+    Constructor injection
+
+[33mcommit 5b89d8c29ea0ffa89e1d75739b0a8398b668ee9c[m
+Author: Nagendra Gandham <nagendragandham770@gmail.com>
+Date:   Mon Jul 6 20:58:56 2026 +0530
+
+    First Bean
+
+[33mcommit 701c7d39b42c3de7cd555b4c2cd56c71674ef8e9[m
+Author: Nagendra Gandham <nagendragandham770@gmail.com>
+Date:   Sun Jul 5 18:28:58 2026 +0530
+
+    01 tightCoupling And Loose Coupling
