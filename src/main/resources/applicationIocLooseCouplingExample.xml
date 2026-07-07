@@ -17,5 +17,4 @@
     <bean id="userManagerWithuserWebServiceDataprovider" class="loosecouplingIoc.UserManager">
         <constructor-arg ref="userWebServiceDataprovider"/>
     </bean>
-
 </beans>
